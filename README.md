@@ -1,2 +1,3 @@
 # STM32
-STM32 stuff
+
+see https://github.com/FrankBau/STM32/wiki
